@@ -44,7 +44,7 @@ Its a **Styling Marathon**
 
 1. You don't need to touch `index.html` this time, just take a look of the classes that are assigned to each html element.
 2. Your `style.css` has all classes that you need this time, you only need to fill the classes with your stylings.
-3. Your page should look like this ![sample-ch-3]()
+3. Your page should look like this ![sample-ch-3](https://s9.gifyu.com/images/challenge3.gif)
 
 #### **The class `container`**
 
@@ -61,6 +61,7 @@ Its a **Styling Marathon**
 
 1. Give the list a `background-color` and a `color`
 2. Make your list scroll using `overflow`
+3. You will find the `row` class in the `index.js`, `ìndex.js` is rendering a list from `people.js` ( you do not need to touch is, it's only so you know what is the `row` class controlling)
 
 ### Hints and Tools:
 
