@@ -32,7 +32,7 @@ Its a **Styling Marathon**
 2. Create style.css file and link it to your html file
 3. Try to create this layout:
 
-   ![sample-ch-2](https://i.ibb.co/vvHN8xG/chrome-JCom-T2-Xd-FW.png)
+![sample-ch-2](https://i.ibb.co/vvHN8xG/chrome-JCom-T2-Xd-FW.png)
 
 4. Use `flexbox`
 
