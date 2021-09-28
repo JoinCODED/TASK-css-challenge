@@ -85,6 +85,5 @@ Its a **Styling Marathon**
 - For the image shaping you can check the following resources:
   1. [object-fit](https://www.w3schools.com/css/css3_object-fit.asp)
   2. [object-position](https://www.w3schools.com/css/css3_object-position.asp)
-- If you need to read more about `position`
+- If you need to read more about [position](https://www.w3schools.com/css/css_positioning.asp)
 - `z-index` would help you [here](https://www.w3schools.com/cssref/pr_pos_z-index.asp)
-- You can create the gradiant
