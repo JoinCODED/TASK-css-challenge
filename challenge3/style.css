@@ -5,9 +5,11 @@
 }
 
 .row {
+  /* .row is used in ./index.js not in the html filee */
 }
 
 /* This is a gift - Does not need editing */
+/* Learn more about CSS Pseudo Classes https://www.w3schools.com/css/css_pseudo_classes.asp*/
 .row:hover {
   text-decoration: line-through;
   cursor: pointer;

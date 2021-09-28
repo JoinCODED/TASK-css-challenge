@@ -10,7 +10,21 @@ body {
 }
 .descriptions {
 }
+
+/*A gift from us!*/
 .movie-shadow {
+  /*
+    This gradient was made by this website https://cssgradient.io/
+*/
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.75) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
 }
 .movie-title {
 }

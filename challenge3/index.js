@@ -6,7 +6,7 @@ function deleteItem(key) {
  *  This is a component that will be rendered inside the list
  */
 const listComponent = (person) => `
-    <div onclick="deleteItem(${person.key})" class="row"> ${person.name} | ${person.address}</div>
+    <div class="row" onclick="deleteItem(${person.key})" > ${person.name} | ${person.address}</div>
 `;
 /**
  * This function will render the list of id "rows" with the array defined in people.js
