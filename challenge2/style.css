@@ -1,0 +1,39 @@
+body {
+  background-image: url("./assets/pokemon-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  background-color: white;
+  padding: 30px;
+  text-align: center;
+  margin: 20px;
+
+  width: 300px;
+  margin-top: 12px;
+  border-radius: 24px;
+  -webkit-box-shadow: 5px 5px 19px 4px rgba(0, 0, 0, 0.712);
+  box-shadow: 5px 5px 19px 4px rgba(0, 0, 0, 0.465);
+}
+
+.title {
+  font-family: cursive;
+  font-size: 50px;
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  border-radius: 50%;
+}
+
+/*
+Challenge 2: 
+*/

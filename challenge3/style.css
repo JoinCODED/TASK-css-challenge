@@ -1,0 +1,23 @@
+.container {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(241, 241, 174);
+  overflow: scroll;
+}
+.head {
+  position: sticky;
+  top: 0;
+  text-align: center;
+  background-color: chocolate;
+  padding: 10px;
+  color: white;
+}
+
+.row {
+  padding: 10px;
+}
+
+.row:hover {
+  text-decoration: line-through;
+  cursor: pointer;
+}
