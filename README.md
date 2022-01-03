@@ -9,7 +9,7 @@ Its a **Styling Marathon**
 2. You will find a folder for each challenge
 3. The `index.html` for each challenge is already there, you do not need to create it.
 4. Import your `CSS` only using a `style` sheet for each folder separately
-5. Use live server to run the server, otherwise, some pages will break!
+5. **Use live server to run the server**, otherwise, some pages will break!
 
 ## Challenge 1
 
