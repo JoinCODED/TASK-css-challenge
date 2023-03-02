@@ -10,6 +10,8 @@ Its a **Styling Marathon**
 3. The `index.html` for each challenge is already there, you do not need to create it.
 4. Import your `CSS` only using a `style` sheet for each folder separately
 5. **Use live server to run the server**, otherwise, some pages will break!
+6. Remember that here we are using w3css, [here in the code](https://github.com/JoinCODED/TASK-css-challenge/blob/f7994331302af72b713ccb1da57532e0ba740679/index.html#L8), and it has some ready classes. if your style 
+   doesn’t apply to the html just make sure yours is overriding the w3css.
 
 ## Challenge 1
 
